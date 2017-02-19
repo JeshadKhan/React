@@ -4,7 +4,7 @@ A freeware physiological question answer application.
 <hr />
 
  * Author               : Quaint Park
- * Copyright            : © 2017 Quaint Park.
+ * Copyright            : © 2013 Quaint Park.
  * Official Website     : www.quaintpark.com
  * ------------------------------------------------------------------------------
  * Developed By         : Jeshad Khan
