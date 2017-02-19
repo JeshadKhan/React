@@ -1,0 +1,6 @@
+Installation Instruction
+
+ - Just run the "ReactSetup.exe" file.
+ - Follow the instructions.
+ - Run.
+ - Enjoy.
