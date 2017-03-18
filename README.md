@@ -6,10 +6,10 @@ A freeware physiological question answer application.
  * Author               : Quaint Park
  * Copyright            : © 2013 Quaint Park.
  * Official Website     : www.quaintpark.com
- * ------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------
  * Developed By         : Jeshad Khan
  * Profile              : www.jeshadkhan.com
- * ------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------
  * Title                : React
  * Version              : 1.0
  * License              : Licensed under MIT <http://opensource.org/licenses/MIT>
